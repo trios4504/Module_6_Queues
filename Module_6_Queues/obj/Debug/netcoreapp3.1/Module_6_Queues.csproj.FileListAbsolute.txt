@@ -1,0 +1,13 @@
+C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Module_6_Queues\bin\Debug\netcoreapp3.1\Module_6_Queues.exe
+C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Module_6_Queues\bin\Debug\netcoreapp3.1\Module_6_Queues.deps.json
+C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Module_6_Queues\bin\Debug\netcoreapp3.1\Module_6_Queues.runtimeconfig.json
+C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Module_6_Queues\bin\Debug\netcoreapp3.1\Module_6_Queues.runtimeconfig.dev.json
+C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Module_6_Queues\bin\Debug\netcoreapp3.1\Module_6_Queues.dll
+C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Module_6_Queues\bin\Debug\netcoreapp3.1\Module_6_Queues.pdb
+C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Module_6_Queues\obj\Debug\netcoreapp3.1\Module_6_Queues.csprojAssemblyReference.cache
+C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Module_6_Queues\obj\Debug\netcoreapp3.1\Module_6_Queues.AssemblyInfoInputs.cache
+C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Module_6_Queues\obj\Debug\netcoreapp3.1\Module_6_Queues.AssemblyInfo.cs
+C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Module_6_Queues\obj\Debug\netcoreapp3.1\Module_6_Queues.csproj.CoreCompileInputs.cache
+C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Module_6_Queues\obj\Debug\netcoreapp3.1\Module_6_Queues.dll
+C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Module_6_Queues\obj\Debug\netcoreapp3.1\Module_6_Queues.pdb
+C:\Users\tomri\OneDrive\Desktop\CS 133 Projects\Module_6_Queues\obj\Debug\netcoreapp3.1\Module_6_Queues.genruntimeconfig.cache
